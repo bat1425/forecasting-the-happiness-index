@@ -1,0 +1,52 @@
+City,Month,Year,Decibel_Level,Traffic_Density,Green_Space_Area,Air_Quality_Index,Happiness_Score,Cost_of_Living_Index,Healthcare_Index
+Auckland,January,2030,55,Low,80,40,8.4,110,97
+Berlin,January,2030,50,Low,60,45,7.9,80,93
+Cairo,January,2030,75,Very High,15,110,4.1,55,69
+Denver,January,2030,60,Medium,40,50,7.5,95,89
+Edinburgh,January,2030,55,Low,65,55,7.8,85,92
+Frankfurt,January,2030,60,Medium,50,60,7.3,90,95
+Geneva,February,2030,55,Low,70,35,8.1,120,100
+Helsinki,February,2030,60,Low,80,30,8.5,95,99
+Istanbul,February,2030,70,High,35,80,6.5,75,80
+Jakarta,February,2030,85,Very High,10,150,4.2,40,60
+Kuala Lumpur,March,2030,75,High,25,160,5.5,55,70
+Lisbon,March,2030,60,Low,65,40,7.7,70,87
+Mumbai,March,2030,80,Very High,10,180,4.6,60,63
+New York,March,2030,70,High,30,40,6.8,100,85
+Oslo,March,2030,55,Low,75,25,8.7,115,102
+Paris,April,2030,60,High,40,65,7.0,105,81
+Quebec City,April,2030,55,Low,50,50,7.5,80,90
+Rome,April,2030,65,High,35,70,6.8,95,77
+Sydney,April,2030,60,Low,45,30,8.3,110,94
+Tokyo,April,2030,70,High,20,70,6.2,120,91
+Utrecht,May,2030,55,Low,60,35,7.8,90,95
+Vienna,May,2030,60,Low,70,30,8.6,85,96
+Warsaw,May,2030,65,Medium,50,75,6.8,70,88
+Xiamen,May,2030,75,High,30,80,5.4,60,75
+Yerevan,May,2030,60,Medium,40,85,5.8,50,68
+Zurich,May,2030,55,Low,80,40,8.2,130,104
+Adelaide,June,2030,60,Low,65,45,7.9,105,89
+Boston,June,2030,65,High,40,50,7.1,110,92
+Cape Town,June,2030,55,Low,60,55,7.6,70,80
+Dublin,June,2030,60,Medium,55,40,7.3,105,90
+Florence,June,2030,65,High,35,65,7.0,100,78
+Gothenburg,June,2030,60,Low,70,30,8.0,85,97
+Hanoi,June,2030,85,Very High,15,220,3.9,35,43
+Innsbruck,July,2030,55,Low,75,40,7.9,90,98
+Johannesburg,July,2030,70,High,20,60,6.7,55,70
+Kingston,July,2030,75,High,25,130,5.6,65,71
+Lyon,July,2030,60,High,45,65,7.1,80,82
+Madrid,July,2030,65,High,40,70,7.0,85,77
+Nairobi,July,2030,70,High,35,95,5.0,50,65
+Ottawa,July,2030,60,Medium,50,40,7.5,90,91
+Perth,August,2030,55,Low,60,50,7.8,110,90
+Quito,August,2030,70,High,25,120,4.7,55,61
+Rio de Janeiro,August,2030,65,Medium,50,55,6.6,80,74
+San Francisco,August,2030,60,High,35,40,7.4,130,93
+Tallinn,August,2030,55,Low,70,30,7.9,70,94
+Ulaanbaatar,August,2030,70,High,20,100,5.5,45,72
+Vancouver,September,2030,60,Medium,55,35,7.6,110,90
+Wellington,September,2030,55,Low,80,30,8.4,90,94
+Xalapa,September,2030,65,High,30,90,5.2,55,70
+Yellowknife,September,2030,60,Low,55,40,7.3,100,88
+Zagreb,September,2030,65,Medium,40,75,6.9,65,80
